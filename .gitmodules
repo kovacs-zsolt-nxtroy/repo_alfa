@@ -1,0 +1,3 @@
+[submodule "repo_b"]
+	path = repo_b
+	url = https://github.com/kovacs-zsolt-nxtroy/repo_beta.git
